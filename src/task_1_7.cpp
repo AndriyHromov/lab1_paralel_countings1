@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#-include <thread> // (залиште звичайний include thread)
+#include <thread> 
 #include <thread>
 #include <mutex>
 #include <chrono>
